@@ -1,9 +1,4 @@
-# Gleason_Grading_ECBM_4040
-Final project for Neural Networks and Deep Learning.
-
 # Gleason Grading - Prostate Cancer Tissue Microarray Classfication
-
-This github contains the code for the final project for ECBM 4040 - Neural Networks and Deep Learning @ Columbia University. 
 
 The Dataset can be downloaded at the following link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OCYCMP&version=1.0
 
