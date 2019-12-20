@@ -1,5 +1,5 @@
 #########################################
-# Primary author = Drew Afromsky        #
+# Author = Drew Afromsky                #
 # email = daa2162@columbia.edu          #
 #########################################
 
