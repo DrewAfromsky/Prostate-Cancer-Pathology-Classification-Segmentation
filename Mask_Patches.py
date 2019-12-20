@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+
+#################################
+# Author = Drew Afromsky        #
+# Email = daa2162@columbia.edu  #
+#################################
+
+
 # Image patch creation
 from __future__ import absolute_import, division, print_function, unicode_literals
 import os
