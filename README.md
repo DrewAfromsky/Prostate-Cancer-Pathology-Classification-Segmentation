@@ -1,5 +1,7 @@
 # Gleason Grading - Prostate Cancer Tissue Microarray Classfication
 
+![Screen_Shot]("https://github.com/DrewAfromsky/Prostate-Cancer-Pathology-Classification-Segmentation/blob/master/Screen%20Shot%202020-01-09%20at%201.46.05%20PM.png")
+
 The Dataset can be downloaded at the following link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OCYCMP&version=1.0
 
 ### Files and their purposes
